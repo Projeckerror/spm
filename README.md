@@ -1,7 +1,9 @@
 # spam sms
 # Selamat Datang di Tools Abidin 25 
 # Jangan lupa subscribe channel YouTube gw ok
-# Install bahan
+# Saya tidak bertanggung jawab jika kalian menggunakan tools ini untuk tujuan kejahatan 
+# gunakan tools ini dengan baik jangan di salah gunakan ok. 
+# Install bahan 
 pkg update && pkg upgrade
 
 pkg install python
